@@ -1,6 +1,6 @@
 [package]
 name = "archie"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Kent Inverarity <kinverarity@hotmail.com>"]
 edition = "2018"
 
